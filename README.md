@@ -1,4 +1,4 @@
-## Portfolio-Creation-and-Management-Optimization-I
+## Portfolio Creation and Management (Optimization-I)
 
 ### Problem Overview
 
