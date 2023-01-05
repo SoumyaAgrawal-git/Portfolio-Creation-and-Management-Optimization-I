@@ -1,6 +1,6 @@
 ## Portfolio-Creation-and-Management-Optimization-I
 
-###Problem Overview
+### Problem Overview
 
 Equity money management strategies are largely classified as either ‘active’ or ‘passive’. The most common passive strategy is that of “indexing” where the goal is to choose a portfolio that mirrors the movements of the broad market population or a market index. Such a portfolio is called an index fund. For example, the QQQ Index fund tracks the NASDAQ-100 index.
 
